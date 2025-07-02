@@ -214,6 +214,7 @@ const CompanionComponent = ({
         </div>
 
         <div className="transcript-fade" />
+        {/* THis is the transcript  */}
       </section>
     </section>
   );
